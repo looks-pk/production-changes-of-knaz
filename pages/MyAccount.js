@@ -109,7 +109,7 @@ const MyAccount = () => {
 
   return (
     <>
-      <div className='container mx-auto'>
+      <div className='container mx-auto min-h-screen'>
         <h1 className='text-3xl text-center font-bold'>Account Management</h1>
       </div>
       <div>

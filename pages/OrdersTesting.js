@@ -8,7 +8,7 @@ import Link from 'next/link';
 
 
 
-const OrdersHarry = () => {
+const OrdersTesting = () => {
 
     const router = useRouter()
 
@@ -133,4 +133,4 @@ const OrdersHarry = () => {
 }
 
 
-export default OrdersHarry
+export default OrdersTesting

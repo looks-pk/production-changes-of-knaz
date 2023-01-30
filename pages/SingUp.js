@@ -65,7 +65,7 @@ const handleChange = (e) => {
 
 
   return (
-    <div className="bg-white py-6 sm:py-8 lg:py-12">
+    <div className="bg-white py-6 sm:py-8 lg:py-12 min-h-screen">
       <ToastContainer
 position="bottom-left"
 autoClose={5000}

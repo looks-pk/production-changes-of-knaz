@@ -3,7 +3,7 @@ import React from 'react'
 const Contact = () => {
   return (
     <div>
-     <div class="bg-white py-6 sm:py-8 lg:py-12">
+     <div class="bg-white py-6 sm:py-8 lg:py-12 min-h-screen">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
     
     <div class="mb-10 md:mb-16">

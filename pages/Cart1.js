@@ -8,7 +8,7 @@ const Cart1 = ({ cart, addToCart, removeFromCart, clearCart, subTotal}) => {
   const shipping = 100;
   return (
    <>
-   <div className="bg-white py-6 sm:py-8 lg:py-0">
+   <div className="bg-white py-6 sm:py-8 lg:py-0 min-h-screen">
   <div className="max-w-screen-lg px-4 md:px-8 mx-auto">
     <div className="mb-6 sm:mb-10 lg:mb-16">
       <h2 className="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">Your Cart</h2>
